@@ -29,8 +29,32 @@ Icons use an upper camel case naming convention and are always suffixed with the
 
 [Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@sodaicons/react/outline/)
 
+## How To Contribute
+
+1. copy your svg file to outline or solid folder.
+
+
+2. build
+
+```
+yarn
+yarn build
+```
+
+3. confirm
+
+```
+cd react/
+yarn link
+
+cd <your project>
+yarn link "@sodaicons/react"
+// confirm the icons
+```
 
 ## Vue
+
+<details>
 
 *Note that this library currently only supports Vue 3.*
 
@@ -64,6 +88,8 @@ The 24x24 outline icons can be imported from `@sodaicons/vue/outline`, and the 2
 Icons use an upper camel case naming convention and are always suffixed with the word `Icon`.
 
 [Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@sodaicons/vue/outline/)
+
+</details>
 
 ## License
 
