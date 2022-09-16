@@ -26,23 +26,22 @@ const Home: NextPage = () => {
         <section>
           <h2>@sodaicons/react/outline</h2>
           <p>
-            <BoxCogIcon className="icon icon-color" />
-            <CalculatorColorIcon className="icon" />
-            <CardColorIcon className="icon" />
-            <DocumentsColorIcon className="icon" />
-            <span className="icon-color">
-              <PencilColorIcon className="icon" />
-            </span>
-            <RewardColorIcon className="icon" />
+            <PencilColorIcon className="icon" />
             <SettingColorIcon className="icon" />
+            <CardColorIcon className="icon" />
+            <CalculatorColorIcon className="icon" />
+            <RewardColorIcon className="icon" />
+            <BoxCogIcon className="icon " />
+
+            <DocumentsColorIcon className="icon" />
           </p>
         </section>
 
         <section>
           <h2>@sodaicons/react/solid</h2>
           <p>
-            <AppStoreIcon className="icon" />
-            <ReviewIcon className="icon" />
+            <AppStoreIcon className="icon " />
+            <ReviewIcon className="icon text-primary" />
           </p>
         </section>
       </main>
