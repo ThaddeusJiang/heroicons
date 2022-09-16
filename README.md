@@ -2,6 +2,7 @@
 
 - [sodaicons](#sodaicons)
   - [React](#react)
+  - [Double Color (aka Highlight Icons)](#double-color-aka-highlight-icons)
   - [How To Contribute](#how-to-contribute)
   - [Vue](#vue)
   - [License](#license)
@@ -34,6 +35,31 @@ The 24x24 outline icons can be imported from `@sodaicons/react/outline`, and the
 Icons use an upper camel case naming convention and are always suffixed with the word `Icon`.
 
 [Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@sodaicons/react/outline/)
+
+## Double Color (aka Highlight Icons)
+
+1. add `class="highlight"` to SVG
+
+```diff
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path
++    class="highlight"
+    fill-rule="evenodd" clip-rule="evenodd" d="..." />
+  <path d="..." stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+```
+
+2. defined `.highlight`
+
+```css
+.highlight {
+  stroke: #fc6d26;
+}
+```
+
+Result:
+
+![double-colors-sodaicons](./.github/double-colors-sodaicons.png)
 
 ## How To Contribute
 
