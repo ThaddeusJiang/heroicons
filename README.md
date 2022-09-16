@@ -1,5 +1,7 @@
 # sodaicons
 
+[![npm (scoped)](https://img.shields.io/npm/v/@sodaicons/react?style=for-the-badge)](https://www.npmjs.com/package/@sodaicons/react)
+
 - [sodaicons](#sodaicons)
   - [React](#react)
   - [Double Color (aka Highlight Icons)](#double-color-aka-highlight-icons)
