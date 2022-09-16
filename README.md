@@ -1,5 +1,11 @@
 # sodaicons
 
+- [sodaicons](#sodaicons)
+  - [React](#react)
+  - [How To Contribute](#how-to-contribute)
+  - [Vue](#vue)
+  - [License](#license)
+
 ## React
 
 First, install `@sodaicons/react` from npm:
@@ -47,7 +53,7 @@ yarn build
 cd react/
 yarn link
 
-cd <your project>
+cd example/nextjs
 yarn link "@sodaicons/react"
 // confirm the icons
 ```
