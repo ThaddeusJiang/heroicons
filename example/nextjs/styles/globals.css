@@ -25,6 +25,10 @@ a {
   stroke: #fc6d26;
 }
 
+.icon .fill-highlight {
+  fill: #fc6d26
+}
+
 .text-primary {
   color: #fc6d26;
 }

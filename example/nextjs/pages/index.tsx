@@ -58,21 +58,21 @@ const Home: NextPage = () => {
           <h2>@sodaicons/react/solid</h2>
           <p>
             <AppStoreIcon className="icon " />
-            <ReviewIcon className="icon text-primary" />
-            <BonusColorIcon className="icon text-primary" />
-            <CalculatorColorSolidIcon className="icon text-primary" />
-            <BabyColorIcon className="icon text-primary" />
-            <BusinessCardIcon className="icon text-primary" />
-            <CareColorIcon className="icon text-primary" />
-            <ClipboardCheckColorIcon className="icon text-primary" />
-            <ContractColorIcon className="icon text-primary" />
-            <MoveColorIcon className="icon text-primary" />
-            <OfficeColorIcon className="icon text-primary" />
-            <OldPeopleColorIcon className="icon text-primary" />
-            <OnboardingIcon className="icon text-primary" />
-            <ResignIcon className="icon text-primary" />
-            <SalaryColorIcon className="icon text-primary" />
-            <SignatureIcon className="icon text-primary" />
+            <ReviewIcon className="icon " />
+            <BonusColorIcon className="icon" />
+            <CalculatorColorSolidIcon className="icon" />
+            <BabyColorIcon className="icon " />
+            <BusinessCardIcon className="icon " />
+            <CareColorIcon className="icon " />
+            <ClipboardCheckColorIcon className="icon " />
+            <ContractColorIcon className="icon " />
+            <MoveColorIcon className="icon " />
+            <OfficeColorIcon className="icon " />
+            <OldPeopleColorIcon className="icon " />
+            <OnboardingIcon className="icon " />
+            <ResignIcon className="icon " />
+            <SalaryColorIcon className="icon " />
+            <SignatureIcon className="icon " />
           </p>
         </section>
       </main>
