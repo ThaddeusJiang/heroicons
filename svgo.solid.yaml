@@ -8,3 +8,4 @@
       attributes:
         - 'fill': 'currentColor'
         - 'aria-hidden': 'true'
+        - 'className': 'solid-icon'
