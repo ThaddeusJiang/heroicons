@@ -25,7 +25,13 @@ a {
   stroke: #fc6d26;
 }
 
-.icon .fill-highlight {
+.solid-icon {
+  width: 2em;
+  height: 2em;
+  color: #8D95A4;
+}
+
+.solid-icon .highlight {
   fill: #fc6d26
 }
 

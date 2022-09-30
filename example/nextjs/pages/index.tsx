@@ -57,22 +57,22 @@ const Home: NextPage = () => {
         <section>
           <h2>@sodaicons/react/solid</h2>
           <p>
-            <AppStoreIcon className="icon " />
-            <ReviewIcon className="icon " />
-            <BonusColorIcon className="icon" />
-            <CalculatorColorSolidIcon className="icon" />
-            <BabyColorIcon className="icon " />
-            <BusinessCardIcon className="icon " />
-            <CareColorIcon className="icon " />
-            <ClipboardCheckColorIcon className="icon " />
-            <ContractColorIcon className="icon " />
-            <MoveColorIcon className="icon " />
-            <OfficeColorIcon className="icon " />
-            <OldPeopleColorIcon className="icon " />
-            <OnboardingIcon className="icon " />
-            <ResignIcon className="icon " />
-            <SalaryColorIcon className="icon " />
-            <SignatureIcon className="icon " />
+            <AppStoreIcon  />
+            <ReviewIcon  />
+            <BonusColorIcon  />
+            <CalculatorColorSolidIcon  />
+            <BabyColorIcon  />
+            <BusinessCardIcon  />
+            <CareColorIcon  />
+            <ClipboardCheckColorIcon  />
+            <ContractColorIcon />
+            <MoveColorIcon  />
+            <OfficeColorIcon  />
+            <OldPeopleColorIcon  />
+            <OnboardingIcon  />
+            <ResignIcon  />
+            <SalaryColorIcon  />
+            <SignatureIcon  />
           </p>
         </section>
       </main>
