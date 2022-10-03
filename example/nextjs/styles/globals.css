@@ -25,6 +25,17 @@ a {
   stroke: #fc6d26;
 }
 
+.icon-solid {
+  width: 2em;
+  height: 2em;
+  color: #8D95A4;
+  fill: currentColor
+}
+
+.icon-solid .highlight {
+  fill: #fc6d26
+}
+
 .text-primary {
   color: #fc6d26;
 }

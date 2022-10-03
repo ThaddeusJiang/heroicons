@@ -9,9 +9,27 @@ import {
   PencilColorIcon,
   RewardColorIcon,
   SettingColorIcon,
-} from '@sodaicons/react/outline'
+} from '../../../react/outline'
 
-import { AppStoreIcon, ReviewIcon } from '@sodaicons/react/solid'
+import {
+  AppStoreIcon,
+  ReviewIcon,
+  BonusColorIcon,
+  BabyColorIcon,
+  BusinessCardIcon,
+  CalculatorColorIcon as CalculatorColorSolidIcon,
+  CareColorIcon,
+  ClipboardCheckColorIcon,
+  ContractColorIcon,
+  MoveColorIcon,
+  OfficeColorIcon,
+  OldPeopleColorIcon,
+  OnboardingIcon,
+  ResignIcon,
+  SalaryColorIcon,
+  SignatureIcon,
+  CareDeleteColorIcon
+} from '../../../react/solid'
 
 const Home: NextPage = () => {
   return (
@@ -40,8 +58,23 @@ const Home: NextPage = () => {
         <section>
           <h2>@sodaicons/react/solid</h2>
           <p>
-            <AppStoreIcon className="icon " />
-            <ReviewIcon className="icon text-primary" />
+            <AppStoreIcon  />
+            <OnboardingIcon  />
+            <ResignIcon  />
+            <BusinessCardIcon  />
+            <ClipboardCheckColorIcon  />
+            <CareColorIcon  />
+            <CareDeleteColorIcon />
+            <MoveColorIcon  />
+            <SalaryColorIcon  />
+            <OfficeColorIcon  />
+            <OldPeopleColorIcon  />
+            <BabyColorIcon  />
+            <CalculatorColorSolidIcon  />
+            <BonusColorIcon />
+            <ContractColorIcon />
+            <ReviewIcon  />
+            <SignatureIcon  />
           </p>
         </section>
       </main>
