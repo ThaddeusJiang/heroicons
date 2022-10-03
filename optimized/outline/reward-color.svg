@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" className="outline-icon">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" className="icon-outline">
   <path d="M15.466 13.748l2.23 3.143M19.926 13.748l-2.23 3.143M15.706 17.186h3.98M15.706 19.65h3.98M17.682 16.95v4.484" class="highlight"/>
   <path d="M17.188 10.945c-.921-1.49-2.283-2.626-3.873-3.142l1.35-5.267H7.88l1.349 5.267c-2.978.974-5.155 4.072-5.155 7.745v5.326c0 .206 0 .413.027.605h9.361"/>
 </svg>

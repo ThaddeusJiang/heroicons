@@ -28,6 +28,7 @@ import {
   ResignIcon,
   SalaryColorIcon,
   SignatureIcon,
+  CareDeleteColorIcon
 } from '../../../react/solid'
 
 const Home: NextPage = () => {
@@ -58,20 +59,21 @@ const Home: NextPage = () => {
           <h2>@sodaicons/react/solid</h2>
           <p>
             <AppStoreIcon  />
-            <ReviewIcon  />
-            <BonusColorIcon  />
-            <CalculatorColorSolidIcon  />
-            <BabyColorIcon  />
-            <BusinessCardIcon  />
-            <CareColorIcon  />
-            <ClipboardCheckColorIcon  />
-            <ContractColorIcon />
-            <MoveColorIcon  />
-            <OfficeColorIcon  />
-            <OldPeopleColorIcon  />
             <OnboardingIcon  />
             <ResignIcon  />
+            <BusinessCardIcon  />
+            <ClipboardCheckColorIcon  />
+            <CareColorIcon  />
+            <CareDeleteColorIcon />
+            <MoveColorIcon  />
             <SalaryColorIcon  />
+            <OfficeColorIcon  />
+            <OldPeopleColorIcon  />
+            <BabyColorIcon  />
+            <CalculatorColorSolidIcon  />
+            <BonusColorIcon />
+            <ContractColorIcon />
+            <ReviewIcon  />
             <SignatureIcon  />
           </p>
         </section>

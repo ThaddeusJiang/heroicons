@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 14" fill="currentColor" aria-hidden="true" className="solid-icon">
-  <g clip-path="url(#clip0_1245_27709)">
-    <path d="M5.999 6c.796 0 1.558-.317 2.121-.88A2.998 2.998 0 103.878.88a2.998 2.998 0 000 4.242c.563.563 1.324.88 2.12.88v-.003zM5.999 8a5.997 5.997 0 015.999 6H0a5.997 5.997 0 015.999-6z" class="highlight"/>
-    <path d="M13.999 4a.997.997 0 00-1-1A1.001 1.001 0 0012 4v1h-1a.997.997 0 00-.999 1 1.001 1.001 0 001 .999H12v1a.998.998 0 001.707.706.997.997 0 00.292-.707v-1h1A.997.997 0 0015.997 6a.997.997 0 00-1-1h-1V4z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20" aria-hidden="true" className="icon-solid">
+  <g clip-path="url(#clip0_1245_27707)">
+    <path d="M7.999 9c.796 0 1.558-.317 2.121-.88a2.998 2.998 0 10-4.242-4.24 2.998 2.998 0 000 4.242c.563.563 1.324.88 2.12.88v-.003zM7.999 11a5.998 5.998 0 015.999 6H2a5.997 5.997 0 015.999-6z" class="highlight"/>
+    <path d="M15.999 7a.997.997 0 00-1-1A1.001 1.001 0 0014 7v1h-1a.997.997 0 00-.999 1 1.001 1.001 0 001 .999H14v1a.998.998 0 001.707.707.997.997 0 00.292-.708v-1h1A.997.997 0 0017.997 9a.997.997 0 00-1-1h-1V7z"/>
   </g>
   <defs>
-    <clipPath id="clip0_1245_27709">
-      <path d="M0 0h16v14H0z"/>
+    <clipPath id="clip0_1245_27707">
+      <path fill="#fff" d="M0 0h16v14H0z" transform="translate(2 3)"/>
     </clipPath>
   </defs>
 </svg>
